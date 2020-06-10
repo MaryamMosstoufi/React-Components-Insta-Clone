@@ -6,10 +6,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faComment, faHeart } from '@fortawesome/free-regular-svg-icons'
 
 const LikeSection = props => {
-  console.log(props);
-  // const addLikes = evt => {
-  //   setLikes(likes + 1)
-  // };
+  //console.log(props);
+
   return (
     <div>
       <div
